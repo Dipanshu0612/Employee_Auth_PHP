@@ -29,7 +29,7 @@ include("db.php");
             <h3>Password</h3>
             <input type="password" name="password" id="password" required placeholder="Password">
             <input type="submit" value="Login" class="button" name="login">
-            <h3 class="register">New User? <a href="/First_XAMPP/register.php">Register Here!</a></h3>
+            <h3 class="register">New User? <a href="/Employee_Auth_PHP/register.php">Register Here!</a></h3>
         </form>
     </div>
 </body>
